@@ -1,0 +1,15 @@
+﻿  main.cpp
+E:\Учеба\repos\KursovayaMarket\KursovayaMarket\main.cpp(1,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Market.cpp
+E:\Учеба\repos\KursovayaMarket\KursovayaMarket\Market.cpp(8,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Учеба\repos\KursovayaMarket\KursovayaMarket\Market.cpp(11,50): warning C4305: аргумент: усечение из "double" в "_Ty"
+E:\Учеба\repos\KursovayaMarket\KursovayaMarket\Market.cpp(11,50): warning C4305:         with
+E:\Учеба\repos\KursovayaMarket\KursovayaMarket\Market.cpp(11,50): warning C4305:         [
+E:\Учеба\repos\KursovayaMarket\KursovayaMarket\Market.cpp(11,50): warning C4305:             _Ty=float
+E:\Учеба\repos\KursovayaMarket\KursovayaMarket\Market.cpp(11,50): warning C4305:         ]
+E:\Учеба\repos\KursovayaMarket\KursovayaMarket\Market.cpp(11,45): warning C4305: аргумент: усечение из "double" в "_Ty"
+E:\Учеба\repos\KursovayaMarket\KursovayaMarket\Market.cpp(11,45): warning C4305:         with
+E:\Учеба\repos\KursovayaMarket\KursovayaMarket\Market.cpp(11,45): warning C4305:         [
+E:\Учеба\repos\KursovayaMarket\KursovayaMarket\Market.cpp(11,45): warning C4305:             _Ty=float
+E:\Учеба\repos\KursovayaMarket\KursovayaMarket\Market.cpp(11,45): warning C4305:         ]
+  Player.cpp
